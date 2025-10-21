@@ -1,0 +1,623 @@
+IQ-TREE 2.3.6 built Aug  1 2024
+
+Input file name: 159+23_DNA_1687-2415_including_Rsh.fas
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (10000 replicates)
+Random seed number: 423178
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 183 sequences with 746 nucleotide sites
+Number of constant sites: 724 (= 97.0509% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 724 (= 97.0509% of all sites)
+Number of parsimony informative sites: 8
+Number of distinct site patterns: 25
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: TPM3+R2
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+TPM3+R2           -1238.116    2606.233 -   0.0383    2618.851 +   0.0768    2906.190 +    0.914
+K2P+R2            -1244.787    2617.575 - 0.000132    2629.792 - 0.000323    2912.917 -   0.0316
+TIM3e+R2          -1238.256    2608.512 -   0.0122    2621.537 -     0.02    2913.084 -   0.0291
+TPM3u+F+R2        -1232.456    2600.912 +    0.547    2614.773 +     0.59    2914.713 -   0.0129
+K3P+R2            -1243.347    2616.694 - 0.000205    2629.312 - 0.000411    2916.651 -  0.00489
+TPM2+R2           -1244.228    2618.456 - 8.49e-05    2631.073 -  0.00017    2918.413 -  0.00203
+TVMe+R2           -1237.733    2609.467 -   0.0076    2622.906 -   0.0101    2918.653 -   0.0018
+TNe+R2            -1244.651    2619.302 - 5.56e-05    2631.919 - 0.000112    2919.259 -  0.00133
+TPM3+R3           -1238.125    2610.251 -  0.00513    2623.691 -  0.00683    2919.438 -  0.00121
+TIM3+F+R2         -1232.626    2603.252 +     0.17    2617.541 +    0.148    2921.668 - 0.000398
+JC+R2             -1253.135    2632.270 - 8.49e-08    2644.094 - 2.53e-07    2922.998 - 0.000205
+TIMe+R2           -1243.225    2618.450 - 8.51e-05    2631.475 - 0.000139    2923.022 - 0.000202
+HKY+F+R2          -1239.960    2613.921 - 0.000819    2627.360 -  0.00109    2923.107 - 0.000194
+TIM2e+R2          -1244.187    2620.374 - 3.25e-05    2633.399 - 5.32e-05    2924.946 - 7.73e-05
+SYM+R2            -1237.817    2611.634 -  0.00257    2625.495 -  0.00277    2925.435 - 6.05e-05
+K2P+R3            -1244.787    2621.574 - 1.79e-05    2634.599 - 2.92e-05    2926.146 - 4.24e-05
+TIM3e+R3          -1238.179    2612.358 -  0.00179    2626.220 -  0.00193    2926.160 - 4.21e-05
+K3Pu+F+R2         -1238.483    2612.966 -  0.00132    2626.828 -  0.00142    2926.768 - 3.11e-05
+TVM+F+R2          -1232.251    2604.502 +   0.0909    2619.228 +   0.0636    2927.533 - 2.12e-05
+TPM3u+F+R3        -1232.471    2604.943 +    0.073    2619.669 +    0.051    2927.974 -  1.7e-05
+TPM2u+F+R2        -1239.548    2615.095 - 0.000455    2628.956 - 0.000491    2928.897 - 1.07e-05
+TN+F+R2           -1239.580    2615.160 - 0.000441    2629.021 - 0.000475    2928.961 - 1.04e-05
+K3P+R3            -1243.347    2620.695 - 2.77e-05    2634.134 - 3.69e-05    2929.881 - 6.55e-06
+TPM2+R3           -1244.232    2622.464 - 1.14e-05    2635.904 - 1.52e-05    2931.651 -  2.7e-06
+TVMe+R3           -1237.688    2613.376 -  0.00108    2627.665 - 0.000936    2931.792 - 2.52e-06
+TNe+R3            -1244.651    2623.302 - 7.52e-06    2636.741 -    1e-05    2932.489 - 1.78e-06
+TIM+F+R2          -1238.108    2614.217 - 0.000707    2628.507 - 0.000615    2932.633 - 1.66e-06
+F81+F+R2          -1248.496    2628.991 - 4.38e-07    2642.016 - 7.16e-07    2933.563 - 1.04e-06
+TIM3+F+R3         -1232.557    2607.114 -   0.0246    2622.283 -   0.0138    2934.759 - 5.72e-07
+TIM2+F+R2         -1239.287    2616.573 - 0.000218    2630.863 - 0.000189    2934.989 -  5.1e-07
+JC+R3             -1253.136    2636.271 - 1.15e-08    2648.889 - 2.31e-08    2936.229 - 2.74e-07
+TIMe+R3           -1243.229    2622.458 - 1.15e-05    2636.319 - 1.24e-05    2936.259 -  2.7e-07
+HKY+F+R3          -1239.961    2617.922 - 0.000111    2632.211 - 9.64e-05    2936.338 -  2.6e-07
+TIM2e+R3          -1244.175    2624.349 - 4.46e-06    2638.211 -  4.8e-06    2938.151 - 1.05e-07
+SYM+R3            -1237.741    2615.482 - 0.000375    2630.208 - 0.000262    2938.513 - 8.75e-08
+K3Pu+F+R3         -1238.483    2616.966 - 0.000179    2631.692 - 0.000125    2939.997 - 4.17e-08
+TVM+F+R3          -1232.212    2608.424 -   0.0128    2624.043 -  0.00573    2940.684 - 2.96e-08
+TPM2u+F+R3        -1239.555    2619.110 - 6.12e-05    2633.836 - 4.28e-05    2942.141 - 1.43e-08
+TN+F+R3           -1239.576    2619.152 - 5.99e-05    2633.878 - 4.19e-05    2942.183 -  1.4e-08
+TIM+F+R3          -1238.114    2618.229 - 9.51e-05    2633.398 - 5.33e-05    2945.874 - 2.21e-09
+F81+F+R3          -1248.499    2632.998 -  5.9e-08    2646.859 - 6.36e-08    2946.799 - 1.39e-09
+GTR+F+R3          -1231.974    2609.948 -  0.00597    2626.025 -  0.00213    2946.822 - 1.37e-09
+TIM2+F+R3         -1239.251    2620.501 - 3.05e-05    2635.670 - 1.71e-05    2948.147 - 7.08e-10
+GTR+F+R4          -1231.670    2613.341 -   0.0011    2630.355 - 0.000244    2959.445 - 2.49e-12
+GTR+F+R2          -1246.256    2634.513 - 2.77e-08    2649.682 - 1.55e-08    2962.158 - 6.42e-13
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: TPM3+R2
+
+Rate parameter R:
+
+  A-C: 56.5125
+  A-G: 100.0000
+  A-T: 1.0000
+  C-G: 56.5125
+  C-T: 100.0000
+  G-T: 1.0000
+
+State frequencies: (equal frequencies)
+
+Rate matrix Q:
+
+  A        -1    0.3588    0.6349  0.006349
+  C    0.3588    -1.352    0.3588    0.6349
+  G    0.6349    0.3588        -1  0.006349
+  T  0.006349    0.6349  0.006349   -0.6476
+
+Model of rate heterogeneity: FreeRate with 2 categories
+Site proportion and rates:  (0.9933,0.4712) (0.006707,79.32)
+
+ Category  Relative_rate  Proportion
+  1         0.4712         0.9933
+  2         79.32          0.006707
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -1235.6876 (s.e. 42.9566)
+Unconstrained log-likelihood (without tree): -1231.3450
+Number of free parameters (#branches + #model parameters): 65
+Akaike information criterion (AIC) score: 2601.3752
+Corrected Akaike information criterion (AICc) score: 2613.9929
+Bayesian information criterion (BIC) score: 2901.3324
+
+Total tree length (sum of branch lengths): 0.0533
+Sum of internal branch lengths: 0.0170 (31.8861% of tree length)
+
+WARNING: 16 near-zero internal branches (<0.0013) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'MZ851782.1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++-----------------------------------------------------------MZ851782.1
+|
+|                   +--22BM076_Kidney
+|               +---| (44)
+|               |   |  +**21BM027_Kidney
+|               |   +**| (61)
+|               |      +**21BM033_Kidney
+|           +---| (33)
+|           |   |     +---22BM024_Kidney
+|           |   |  +**| (13)
+|           |   |  |  +**21BM024_Kidney
+|           |   +**| (61)
+|           |      +**22BM020_Kidney
+|        +**| (13)
+|        |  |  +**22LS037_Kidney
+|        |  +--| (95)
+|        |     +**22LS005_Kidney
+|     +**| (10)
+|     |  |                     +--MT394206.1
+|     |  |                  +--| (58)
+|     |  |                  |  +**MT394207.1
+|     |  |               +--| (55)
+|     |  |               |  |  +**MT394222.1
+|     |  |               |  +**| (81)
+|     |  |               |     +**MT394203.1
+|     |  |            +**| (9)
+|     |  |            |  |   +--MT394208.1
+|     |  |            |  +---| (90)
+|     |  |            |      +**MT394205.1
+|     |  |         +**| (6)
+|     |  |         |  +--MT394225.1
+|     |  |      +--| (38)
+|     |  |      |  |  +**MT394218.1
+|     |  |      |  +**| (38)
+|     |  |      |     +**MT394212.1
+|     |  |   +**| (64)
+|     |  |   |  |   +**MT394216.1
+|     |  |   |  +---| (28)
+|     |  |   |      |  +--MT394204.1
+|     |  |   |      +--| (49)
+|     |  |   |         |  +**MT394214.1
+|     |  |   |         +**| (55)
+|     |  |   |            +**MT394211.1
+|     |  +---| (74)
+|     |      +**MT394210.1
+|  +**| (9)
+|  |  |  +**22LS004_Kidney
+|  |  +**| (63)
+|  |     +**21TD014_Kidney
++**| (13)
+|  |   +**21TD011_Kidney
+|  +---| (95)
+|      +**21TD017_Kidney
+|
+|          +**21BM025_Kidney
+|       +**| (83)
+|       |  +**22BM017_Kidney
+|   +---| (59)
+|   |   +---22BM010_Kidney
++---| (37)
+    |  +**MT394220.1
+    +**| (66)
+       +**MT394213.1
+
+Tree in newick format:
+
+(MZ851782.1:0.0228271026,((((((22BM076_Kidney:0.0014636204,(21BM027_Kidney:0.0000009869,21BM033_Kidney:0.0000009869)61:0.0000009869)44:0.0015554469,((22BM024_Kidney:0.0015333680,21BM024_Kidney:0.0000009869)13:0.0000009869,22BM020_Kidney:0.0000009869)61:0.0000024059)33:0.0016113484,(22LS037_Kidney:0.0000009869,22LS005_Kidney:0.0000009869)95:0.0015210989)13:0.0000023795,(((((((MT394206.1:0.0014538136,MT394207.1:0.0000019466)58:0.0014800306,(MT394222.1:0.0000009869,MT394203.1:0.0000009869)81:0.0000009869)55:0.0014596832,(MT394208.1:0.0014574106,MT394205.1:0.0000009869)90:0.0015427127)9:0.0000022042,MT394225.1:0.0014605731)6:0.0000022534,(MT394218.1:0.0000009869,MT394212.1:0.0000009869)38:0.0000022075)38:0.0015148710,(MT394216.1:0.0000025105,(MT394204.1:0.0013970847,(MT394214.1:0.0000009869,MT394211.1:0.0000009869)55:0.0000009869)49:0.0014547819)28:0.0016115123)64:0.0000021404,MT394210.1:0.0000009869)74:0.0015905002)10:0.0000022008,(22LS004_Kidney:0.0000009869,21TD014_Kidney:0.0000009869)63:0.0000009869)9:0.0000023805,(21TD011_Kidney:0.0000009869,21TD017_Kidney:0.0000009869)95:0.0015824565)13:0.0000019948,(((21BM025_Kidney:0.0000009869,22BM017_Kidney:0.0000009869)83:0.0000009869,22BM010_Kidney:0.0015494198)59:0.0015281390,(MT394220.1:0.0000009869,MT394213.1:0.0000009869)66:0.0000022061)37:0.0016164297);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 10000 bootstrap trees
+Log-likelihood of consensus tree: -1235.798963
+Robinson-Foulds distance between ML tree and consensus tree: 14
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----------------------------------------------------------MZ851782.1
+|
+|             +--22BM076_Kidney
+|         +---| (44)
+|         |   |        +**21BM027_Kidney
+|         |   |     +**|
+|         |   |     |  +**22BM058_Kidney
+|         |   |  +--|
+|         |   |  |  +**22BM011_Lung
+|         |   +--| (61)
+|         |      +--21BM033_Kidney
+|     +---| (33)
+|     |   |  +---22BM024_Kidney
+|     |   +--| (61)
+|     |      |                             +**21BM024_Kidney
+|     |      |                          +**|
+|     |      |                          |  +**22BM038_Kidney_Haplotype1
+|     |      |                       +**|
+|     |      |                       |  +**22BM039_Kidney
+|     |      |                    +**|
+|     |      |                    |  +**22BM074_Kidney
+|     |      |                 +**|
+|     |      |                 |  +**22BM057_Kidney
+|     |      |              +**|
+|     |      |              |  +**22BM070_Kidney
+|     |      |           +**|
+|     |      |           |  +**22CB026_Kidney
+|     |      |        +**|
+|     |      |        |  +**22BM043_Kidney
+|     |      |     +**|
+|     |      |     |  +**21BM030_Kidney
+|     |      |  +--|
+|     |      |  |  +**21BM031_Kidney
+|     |      +--| (69)
+|     |         +--22BM020_Kidney
+|  +--| (29)
+|  |  |                      +**21BM025_Kidney
+|  |  |                   +**|
+|  |  |                   |  +**22BM075_Kidney
+|  |  |                +**|
+|  |  |                |  +**21BM022_Kidney
+|  |  |             +**|
+|  |  |             |  +**21BM005_Kidney
+|  |  |          +--|
+|  |  |          |  +**22BM025_Kidney
+|  |  |       +--| (83)
+|  |  |       |  +--22BM017_Kidney
+|  |  |   +---| (59)
+|  |  |   |   +---22BM010_Kidney
+|  |  +---| (37)
+|  |      |                                                                                                                    +**MT394220.1
+|  |      |                                                                                                                 +**|
+|  |      |                                                                                                                 |  +**22BM077_Kidney
+|  |      |                                                                                                              +**|
+|  |      |                                                                                                              |  +**22BM053_Kidney
+|  |      |                                                                                                           +**|
+|  |      |                                                                                                           |  +**22BM079_Kidney
+|  |      |                                                                                                        +**|
+|  |      |                                                                                                        |  +**22BM035_Kidney
+|  |      |                                                                                                     +**|
+|  |      |                                                                                                     |  +**22BM048_Kidney
+|  |      |                                                                                                  +**|
+|  |      |                                                                                                  |  +**22BM073_Kidney
+|  |      |                                                                                               +**|
+|  |      |                                                                                               |  +**22BM042_Kidney
+|  |      |                                                                                            +**|
+|  |      |                                                                                            |  +**21BM013_Kidney
+|  |      |                                                                                         +**|
+|  |      |                                                                                         |  +**22BM060_Kidney
+|  |      |                                                                                      +**|
+|  |      |                                                                                      |  +**22BM080_Kidney
+|  |      |                                                                                   +**|
+|  |      |                                                                                   |  +**22BM056_Kidney
+|  |      |                                                                                +**|
+|  |      |                                                                                |  +**22BM013_Lung
+|  |      |                                                                             +**|
+|  |      |                                                                             |  +**22BM014_Kidney
+|  |      |                                                                          +**|
+|  |      |                                                                          |  +**22BM033_Lung
+|  |      |                                                                       +**|
+|  |      |                                                                       |  +**21BM003_Kidney
+|  |      |                                                                    +**|
+|  |      |                                                                    |  +**22BM061_Kidney
+|  |      |                                                                 +**|
+|  |      |                                                                 |  +**21BM035_Kidney
+|  |      |                                                              +**|
+|  |      |                                                              |  +**22BM012_Lung
+|  |      |                                                           +**|
+|  |      |                                                           |  +**21BM021_Kidney
+|  |      |                                                        +**|
+|  |      |                                                        |  +**22BM008_Kidney
+|  |      |                                                     +**|
+|  |      |                                                     |  +**21BM037_Kidney
+|  |      |                                                  +**|
+|  |      |                                                  |  +**21BM026_Kidney
+|  |      |                                               +**|
+|  |      |                                               |  +**22BM022_Lung
+|  |      |                                            +**|
+|  |      |                                            |  +**22BM016_Lung
+|  |      |                                         +**|
+|  |      |                                         |  +**21TD006_Kidney
+|  |      |                                      +**|
+|  |      |                                      |  +**21BM023_Kidney
+|  |      |                                   +**|
+|  |      |                                   |  +**22BM054_Kidney
+|  |      |                                +**|
+|  |      |                                |  +**22BM007_Lung
+|  |      |                             +**|
+|  |      |                             |  +**22BM018_Lung
+|  |      |                          +**|
+|  |      |                          |  +**22BM062_Kidney
+|  |      |                       +**|
+|  |      |                       |  +**22BM026_Kidney
+|  |      |                    +**|
+|  |      |                    |  +**21BM012_Kidney
+|  |      |                 +**|
+|  |      |                 |  +**22BM040_Kidney
+|  |      |              +**|
+|  |      |              |  +**22BM009_Kidney
+|  |      |           +**|
+|  |      |           |  +**21BM015_Kidney
+|  |      |        +**|
+|  |      |        |  +**22BM015_Lung
+|  |      |     +**|
+|  |      |     |  +**21BM004_Intestine
+|  |      |  +--|
+|  |      |  |  +**22BM002_Kidney
+|  |      +--| (66)
+|  |         +--MT394213.1
++--| (27)
+|  |                     +--MT394206.1
+|  |                  +--| (58)
+|  |                  |  +--MT394207.1
+|  |               +--| (55)
+|  |               |  |           +**MT394222.1
+|  |               |  |        +**|
+|  |               |  |        |  +**MT394215.1
+|  |               |  |     +**|
+|  |               |  |     |  +**MT394209.1
+|  |               |  |  +--|
+|  |               |  |  |  +**MT394224.1
+|  |               |  +--| (81)
+|  |               |     +--MT394203.1
+|  |            +--| (38)
+|  |            |  |         +--MT394208.1
+|  |            |  |     +---| (90)
+|  |            |  |     |   +--MT394205.1
+|  |            |  |  +--| (26)
+|  |            |  |  |  +--MT394225.1
+|  |            |  +--| (28)
+|  |            |     |     +**MT394218.1
+|  |            |     |  +--|
+|  |            |     |  |  +**MT394223.1
+|  |            |     +--| (38)
+|  |            |        +--MT394212.1
+|  |         +--| (64)
+|  |         |  |  +--MT394216.1
+|  |         |  +--| (28)
+|  |         |     |  +--MT394204.1
+|  |         |     +--| (49)
+|  |         |        |        +**MT394214.1
+|  |         |        |     +**|
+|  |         |        |     |  +**MT394219.1
+|  |         |        |  +--|
+|  |         |        |  |  +**MT394217.1
+|  |         |        +--| (55)
+|  |         |           +--MT394211.1
+|  |     +---| (74)
+|  |     |   +--MT394210.1
+|  |  +--| (26)
+|  |  |  |                              +**22LS037_Kidney
+|  |  |  |                           +**|
+|  |  |  |                           |  +**22LS028_Kidney
+|  |  |  |                        +**|
+|  |  |  |                        |  +**22LS022_Intestine
+|  |  |  |                     +**|
+|  |  |  |                     |  +**21TD003_Kidney
+|  |  |  |                  +**|
+|  |  |  |                  |  +**22LS050_Kidney
+|  |  |  |               +**|
+|  |  |  |               |  +**22LS021_Kidney
+|  |  |  |            +**|
+|  |  |  |            |  +**21TD005_Kidney
+|  |  |  |         +**|
+|  |  |  |         |  +**22LS049_Kidney
+|  |  |  |      +**|
+|  |  |  |      |  +**22LS020_Kidney
+|  |  |  |   +--|
+|  |  |  |   |  +**21TD008_Kidney
+|  |  |  +---| (95)
+|  |  |      +--22LS005_Kidney
+|  +--| (17)
+|     |               +**21TD011_Kidney
+|     |            +**|
+|     |            |  +**22LS042_Kidney
+|     |         +**|
+|     |         |  +**22CB042_Kidney
+|     |      +**|
+|     |      |  +**22CB045_Kidney
+|     |   +--|
+|     |   |  +**21TD018_Kidney
+|     +---| (95)
+|         +--21TD017_Kidney
+|
+|                                                                                                                                                                                                                                               +**22LS004_Kidney
+|                                                                                                                                                                                                                                            +**|
+|                                                                                                                                                                                                                                            |  +**21BM010_Kidney
+|                                                                                                                                                                                                                                         +**|
+|                                                                                                                                                                                                                                         |  +**21TD004_Kidney
+|                                                                                                                                                                                                                                      +**|
+|                                                                                                                                                                                                                                      |  +**21BM017_Intestine
+|                                                                                                                                                                                                                                   +**|
+|                                                                                                                                                                                                                                   |  +**22BM069_Kidney
+|                                                                                                                                                                                                                                +**|
+|                                                                                                                                                                                                                                |  +**22BM063_Kidney_Haplotype2
+|                                                                                                                                                                                                                             +**|
+|                                                                                                                                                                                                                             |  +**21BM001_Kidney
+|                                                                                                                                                                                                                          +**|
+|                                                                                                                                                                                                                          |  +**21BM002_Kidney
+|                                                                                                                                                                                                                       +**|
+|                                                                                                                                                                                                                       |  +**22BM003_Kidney
+|                                                                                                                                                                                                                    +**|
+|                                                                                                                                                                                                                    |  +**22LS033_Kidney
+|                                                                                                                                                                                                                 +**|
+|                                                                                                                                                                                                                 |  +**22LS027_Kidney
+|                                                                                                                                                                                                              +**|
+|                                                                                                                                                                                                              |  +**22BM071_Kidney
+|                                                                                                                                                                                                           +**|
+|                                                                                                                                                                                                           |  +**22BM045_Intestine
+|                                                                                                                                                                                                        +**|
+|                                                                                                                                                                                                        |  +**22BM005_Kidney
+|                                                                                                                                                                                                     +**|
+|                                                                                                                                                                                                     |  +**22BM046_Kidney
+|                                                                                                                                                                                                  +**|
+|                                                                                                                                                                                                  |  +**21BM016_Kidney
+|                                                                                                                                                                                               +**|
+|                                                                                                                                                                                               |  +**22LS016_Kidney
+|                                                                                                                                                                                            +**|
+|                                                                                                                                                                                            |  +**21BM011_Intestine
+|                                                                                                                                                                                         +**|
+|                                                                                                                                                                                         |  +**22BM067_Kidney
+|                                                                                                                                                                                      +**|
+|                                                                                                                                                                                      |  +**22BM047_Kidney
+|                                                                                                                                                                                   +**|
+|                                                                                                                                                                                   |  +**22BM031_Kidney
+|                                                                                                                                                                                +**|
+|                                                                                                                                                                                |  +**22BM065_Kidney
+|                                                                                                                                                                             +**|
+|                                                                                                                                                                             |  +**22BM066_Kindey
+|                                                                                                                                                                          +**|
+|                                                                                                                                                                          |  +**21BM040_Kidney
+|                                                                                                                                                                       +**|
+|                                                                                                                                                                       |  +**21TD020_Kidney
+|                                                                                                                                                                    +**|
+|                                                                                                                                                                    |  +**22BM051_Kidney
+|                                                                                                                                                                 +**|
+|                                                                                                                                                                 |  +**22LS002_Kidney_Haplotype1
+|                                                                                                                                                              +**|
+|                                                                                                                                                              |  +**22BM032_Kidney
+|                                                                                                                                                           +**|
+|                                                                                                                                                           |  +**21TD001_Kidney
+|                                                                                                                                                        +**|
+|                                                                                                                                                        |  +**22BM064_Kidney
+|                                                                                                                                                     +**|
+|                                                                                                                                                     |  +**22BM028_Kidney_Haplotype1
+|                                                                                                                                                  +**|
+|                                                                                                                                                  |  +**22BM037_Kidney
+|                                                                                                                                               +**|
+|                                                                                                                                               |  +**21TD009_Kidney
+|                                                                                                                                            +**|
+|                                                                                                                                            |  +**21BM029_Kidney
+|                                                                                                                                         +**|
+|                                                                                                                                         |  +**22LS002_Kidney_Haplotype2
+|                                                                                                                                      +**|
+|                                                                                                                                      |  +**21TD021_Kidney
+|                                                                                                                                   +**|
+|                                                                                                                                   |  +**21BM036_Kidney
+|                                                                                                                                +**|
+|                                                                                                                                |  +**22LS019_Kidney
+|                                                                                                                             +**|
+|                                                                                                                             |  +**21BM028_Kidney
+|                                                                                                                          +**|
+|                                                                                                                          |  +**21TD019_Kidney
+|                                                                                                                       +**|
+|                                                                                                                       |  +**22BM041_Kidney
+|                                                                                                                    +**|
+|                                                                                                                    |  +**22BM028_Kidney_Haplotype2
+|                                                                                                                 +**|
+|                                                                                                                 |  +**22LS007_Kidney
+|                                                                                                              +**|
+|                                                                                                              |  +**21TD002_Kidney
+|                                                                                                           +**|
+|                                                                                                           |  +**MT394221.1
+|                                                                                                        +**|
+|                                                                                                        |  +**22BM072_Kidney
+|                                                                                                     +**|
+|                                                                                                     |  +**21TD022_Kidney
+|                                                                                                  +**|
+|                                                                                                  |  +**22BM050_Kidney
+|                                                                                               +**|
+|                                                                                               |  +**21BM007_Kidney
+|                                                                                            +**|
+|                                                                                            |  +**22BM078_Lung
+|                                                                                         +**|
+|                                                                                         |  +**21BM006_Kidney
+|                                                                                      +**|
+|                                                                                      |  +**22BM001_Kidney
+|                                                                                   +**|
+|                                                                                   |  +**22LS026_Kidney
+|                                                                                +**|
+|                                                                                |  +**21BM014_Kidney
+|                                                                             +**|
+|                                                                             |  +**22LS048_Intestine
+|                                                                          +**|
+|                                                                          |  +**22BM004_Kidney
+|                                                                       +**|
+|                                                                       |  +**22BM038_Kidney_Haplotype2
+|                                                                    +**|
+|                                                                    |  +**22BM063_Kidney_Haplotype1
+|                                                                 +**|
+|                                                                 |  +**22BM034_Kidney
+|                                                              +**|
+|                                                              |  +**22BM006_Kidney
+|                                                           +**|
+|                                                           |  +**21TD007_Kidney
+|                                                        +**|
+|                                                        |  +**21TD010_Kidney
+|                                                     +**|
+|                                                     |  +**21BM038_KIdney
+|                                                  +**|
+|                                                  |  +**22CB028_Kidney
+|                                               +**|
+|                                               |  +**21BM019_Kidney
+|                                            +**|
+|                                            |  +**22BM052_Kidney
+|                                         +**|
+|                                         |  +**22LS025_Intestine
+|                                      +**|
+|                                      |  +**21TD015_Kidney
+|                                   +**|
+|                                   |  +**21BM008_Kidney
+|                                +**|
+|                                |  +**21BM018_Kidney
+|                             +**|
+|                             |  +**22BM023_Kidney
+|                          +**|
+|                          |  +**21BM032_Kidney
+|                       +**|
+|                       |  +**22BM036_Kidney
+|                    +**|
+|                    |  +**22BM068_Kidney
+|                 +**|
+|                 |  +**22BM021_Kidney
+|              +**|
+|              |  +**22BM019_Kidney
+|           +**|
+|           |  +**21BM039_Kidney
+|        +**|
+|        |  +**21BM034_Kidney
+|     +**|
+|     |  +**21TD016_Kidney
+|  +--|
+|  |  +**22BM044_Kidney
++--| (63)
+   +--21TD014_Kidney
+
+
+Consensus tree in newick format: 
+
+(MZ851782.1:0.0228318140,((((22BM076_Kidney:0.0014666162,(((21BM027_Kidney:0.0000000000,22BM058_Kidney:0.0000000000):0.0000000000,22BM011_Lung:0.0000000000):0.0000023104,21BM033_Kidney:0.0000023104)61:0.0000023104)44:0.0015588094,(22BM024_Kidney:0.0015363608,((((((((((21BM024_Kidney:0.0000000000,22BM038_Kidney_Haplotype1:0.0000000000):0.0000000000,22BM039_Kidney:0.0000000000):0.0000000000,22BM074_Kidney:0.0000000000):0.0000000000,22BM057_Kidney:0.0000000000):0.0000000000,22BM070_Kidney:0.0000000000):0.0000000000,22CB026_Kidney:0.0000000000):0.0000000000,22BM043_Kidney:0.0000000000):0.0000000000,21BM030_Kidney:0.0000000000):0.0000000000,21BM031_Kidney:0.0000000000):0.0000023104,22BM020_Kidney:0.0000023104)69:0.0000023104)61:0.0000023104)33:0.0016149844,(((((((21BM025_Kidney:0.0000000000,22BM075_Kidney:0.0000000000):0.0000000000,21BM022_Kidney:0.0000000000):0.0000000000,21BM005_Kidney:0.0000000000):0.0000000000,22BM025_Kidney:0.0000000000):0.0000023104,22BM017_Kidney:0.0000023104)83:0.0000023104,22BM010_Kidney:0.0015502827)59:0.0015293823,(((((((((((((((((((((((((((((((((((((((MT394220.1:0.0000000000,22BM077_Kidney:0.0000000000):0.0000000000,22BM053_Kidney:0.0000000000):0.0000000000,22BM079_Kidney:0.0000000000):0.0000000000,22BM035_Kidney:0.0000000000):0.0000000000,22BM048_Kidney:0.0000000000):0.0000000000,22BM073_Kidney:0.0000000000):0.0000000000,22BM042_Kidney:0.0000000000):0.0000000000,21BM013_Kidney:0.0000000000):0.0000000000,22BM060_Kidney:0.0000000000):0.0000000000,22BM080_Kidney:0.0000000000):0.0000000000,22BM056_Kidney:0.0000000000):0.0000000000,22BM013_Lung:0.0000000000):0.0000000000,22BM014_Kidney:0.0000000000):0.0000000000,22BM033_Lung:0.0000000000):0.0000000000,21BM003_Kidney:0.0000000000):0.0000000000,22BM061_Kidney:0.0000000000):0.0000000000,21BM035_Kidney:0.0000000000):0.0000000000,22BM012_Lung:0.0000000000):0.0000000000,21BM021_Kidney:0.0000000000):0.0000000000,22BM008_Kidney:0.0000000000):0.0000000000,21BM037_Kidney:0.0000000000):0.0000000000,21BM026_Kidney:0.0000000000):0.0000000000,22BM022_Lung:0.0000000000):0.0000000000,22BM016_Lung:0.0000000000):0.0000000000,21TD006_Kidney:0.0000000000):0.0000000000,21BM023_Kidney:0.0000000000):0.0000000000,22BM054_Kidney:0.0000000000):0.0000000000,22BM007_Lung:0.0000000000):0.0000000000,22BM018_Lung:0.0000000000):0.0000000000,22BM062_Kidney:0.0000000000):0.0000000000,22BM026_Kidney:0.0000000000):0.0000000000,21BM012_Kidney:0.0000000000):0.0000000000,22BM040_Kidney:0.0000000000):0.0000000000,22BM009_Kidney:0.0000000000):0.0000000000,21BM015_Kidney:0.0000000000):0.0000000000,22BM015_Lung:0.0000000000):0.0000000000,21BM004_Intestine:0.0000000000):0.0000000000,22BM002_Kidney:0.0000000000):0.0000023104,MT394213.1:0.0000023104)66:0.0000023104)37:0.0016181665)29:0.0000021699,(((((((MT394206.1:0.0014588541,MT394207.1:0.0000023104)58:0.0014851573,((((MT394222.1:0.0000000000,MT394215.1:0.0000000000):0.0000000000,MT394209.1:0.0000000000):0.0000000000,MT394224.1:0.0000000000):0.0000023104,MT394203.1:0.0000023104)81:0.0000023104)55:0.0014646096,(((MT394208.1:0.0014622969,MT394205.1:0.0000023104)90:0.0015482446,MT394225.1:0.0014652862)26:0.0000023104,((MT394218.1:0.0000000000,MT394223.1:0.0000000000):0.0000023104,MT394212.1:0.0000023104)38:0.0000023104)28:0.0000023104)38:0.0000024456,(MT394216.1:0.0014587489,(MT394204.1:0.0014006078,(((MT394214.1:0.0000000000,MT394219.1:0.0000000000):0.0000000000,MT394217.1:0.0000000000):0.0000023104,MT394211.1:0.0000023104)55:0.0000023104)49:0.0000027300)28:0.0014852905)64:0.0015191556,MT394210.1:0.0000023104)74:0.0015950404,((((((((((22LS037_Kidney:0.0000000000,22LS028_Kidney:0.0000000000):0.0000000000,22LS022_Intestine:0.0000000000):0.0000000000,21TD003_Kidney:0.0000000000):0.0000000000,22LS050_Kidney:0.0000000000):0.0000000000,22LS021_Kidney:0.0000000000):0.0000000000,21TD005_Kidney:0.0000000000):0.0000000000,22LS049_Kidney:0.0000000000):0.0000000000,22LS020_Kidney:0.0000000000):0.0000000000,21TD008_Kidney:0.0000000000):0.0000023104,22LS005_Kidney:0.0000023104)95:0.0015247099)26:0.0000023104,(((((21TD011_Kidney:0.0000000000,22LS042_Kidney:0.0000000000):0.0000000000,22CB042_Kidney:0.0000000000):0.0000000000,22CB045_Kidney:0.0000000000):0.0000000000,21TD018_Kidney:0.0000000000):0.0000023104,21TD017_Kidney:0.0000023104)95:0.0015855050)17:0.0000023104)27:0.0000023104,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((22LS004_Kidney:0.0000000000,21BM010_Kidney:0.0000000000):0.0000000000,21TD004_Kidney:0.0000000000):0.0000000000,21BM017_Intestine:0.0000000000):0.0000000000,22BM069_Kidney:0.0000000000):0.0000000000,22BM063_Kidney_Haplotype2:0.0000000000):0.0000000000,21BM001_Kidney:0.0000000000):0.0000000000,21BM002_Kidney:0.0000000000):0.0000000000,22BM003_Kidney:0.0000000000):0.0000000000,22LS033_Kidney:0.0000000000):0.0000000000,22LS027_Kidney:0.0000000000):0.0000000000,22BM071_Kidney:0.0000000000):0.0000000000,22BM045_Intestine:0.0000000000):0.0000000000,22BM005_Kidney:0.0000000000):0.0000000000,22BM046_Kidney:0.0000000000):0.0000000000,21BM016_Kidney:0.0000000000):0.0000000000,22LS016_Kidney:0.0000000000):0.0000000000,21BM011_Intestine:0.0000000000):0.0000000000,22BM067_Kidney:0.0000000000):0.0000000000,22BM047_Kidney:0.0000000000):0.0000000000,22BM031_Kidney:0.0000000000):0.0000000000,22BM065_Kidney:0.0000000000):0.0000000000,22BM066_Kindey:0.0000000000):0.0000000000,21BM040_Kidney:0.0000000000):0.0000000000,21TD020_Kidney:0.0000000000):0.0000000000,22BM051_Kidney:0.0000000000):0.0000000000,22LS002_Kidney_Haplotype1:0.0000000000):0.0000000000,22BM032_Kidney:0.0000000000):0.0000000000,21TD001_Kidney:0.0000000000):0.0000000000,22BM064_Kidney:0.0000000000):0.0000000000,22BM028_Kidney_Haplotype1:0.0000000000):0.0000000000,22BM037_Kidney:0.0000000000):0.0000000000,21TD009_Kidney:0.0000000000):0.0000000000,21BM029_Kidney:0.0000000000):0.0000000000,22LS002_Kidney_Haplotype2:0.0000000000):0.0000000000,21TD021_Kidney:0.0000000000):0.0000000000,21BM036_Kidney:0.0000000000):0.0000000000,22LS019_Kidney:0.0000000000):0.0000000000,21BM028_Kidney:0.0000000000):0.0000000000,21TD019_Kidney:0.0000000000):0.0000000000,22BM041_Kidney:0.0000000000):0.0000000000,22BM028_Kidney_Haplotype2:0.0000000000):0.0000000000,22LS007_Kidney:0.0000000000):0.0000000000,21TD002_Kidney:0.0000000000):0.0000000000,MT394221.1:0.0000000000):0.0000000000,22BM072_Kidney:0.0000000000):0.0000000000,21TD022_Kidney:0.0000000000):0.0000000000,22BM050_Kidney:0.0000000000):0.0000000000,21BM007_Kidney:0.0000000000):0.0000000000,22BM078_Lung:0.0000000000):0.0000000000,21BM006_Kidney:0.0000000000):0.0000000000,22BM001_Kidney:0.0000000000):0.0000000000,22LS026_Kidney:0.0000000000):0.0000000000,21BM014_Kidney:0.0000000000):0.0000000000,22LS048_Intestine:0.0000000000):0.0000000000,22BM004_Kidney:0.0000000000):0.0000000000,22BM038_Kidney_Haplotype2:0.0000000000):0.0000000000,22BM063_Kidney_Haplotype1:0.0000000000):0.0000000000,22BM034_Kidney:0.0000000000):0.0000000000,22BM006_Kidney:0.0000000000):0.0000000000,21TD007_Kidney:0.0000000000):0.0000000000,21TD010_Kidney:0.0000000000):0.0000000000,21BM038_KIdney:0.0000000000):0.0000000000,22CB028_Kidney:0.0000000000):0.0000000000,21BM019_Kidney:0.0000000000):0.0000000000,22BM052_Kidney:0.0000000000):0.0000000000,22LS025_Intestine:0.0000000000):0.0000000000,21TD015_Kidney:0.0000000000):0.0000000000,21BM008_Kidney:0.0000000000):0.0000000000,21BM018_Kidney:0.0000000000):0.0000000000,22BM023_Kidney:0.0000000000):0.0000000000,21BM032_Kidney:0.0000000000):0.0000000000,22BM036_Kidney:0.0000000000):0.0000000000,22BM068_Kidney:0.0000000000):0.0000000000,22BM021_Kidney:0.0000000000):0.0000000000,22BM019_Kidney:0.0000000000):0.0000000000,21BM039_Kidney:0.0000000000):0.0000000000,21BM034_Kidney:0.0000000000):0.0000000000,21TD016_Kidney:0.0000000000):0.0000000000,22BM044_Kidney:0.0000000000):0.0000023104,21TD014_Kidney:0.0000023104)63:0.0000023104);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t 159+23_DNA_1687-2415_including_Rsh.fas.treefile -m "TPM3{56.5125,100}+FQ+R2{0.993293,0.471153,0.00670732,79.3174}" --length 746
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s 159+23_DNA_1687-2415_including_Rsh.fas --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s 159+23_DNA_1687-2415_including_Rsh.fas --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Fri Jun 20 16:32:23 2025
+Total CPU time used: 22.469858 seconds (0h:0m:22s)
+Total wall-clock time used: 9.833541184 seconds (0h:0m:9s)
+
