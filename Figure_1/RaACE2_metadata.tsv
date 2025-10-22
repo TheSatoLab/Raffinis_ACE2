@@ -26,7 +26,7 @@ name	tissue	genotype	dataset	collection_location	collection_coordinates	collecti
 22BM028_Haplotype2	Kidney	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM028
 22BM067	Kidney	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM067
 22BM069	Kidney	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM069
-22CB028	Kidney	V_Ra_04	this study	Cat Ba, Hai Phong, Vietnam	20.7536, 107.0125	2022-11-27	22CB028
+22CB028	Kidney	V_Ra_04	this study	Cat Ba, Hai Phong, Vietnam	20.7536,107.0125	2022-11-27	22CB028
 22BM038_Haplotype2	Kidney	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM038
 22BM068	Kidney	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM068
 22BM063_Haplotype2	Kidney	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM063
@@ -97,8 +97,8 @@ name	tissue	genotype	dataset	collection_location	collection_coordinates	collecti
 21BM031	Kidney	V_Ra_02	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM031
 22BM079	Kidney	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM079
 21BM040	Kidney	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM040
-22LS021	Kidney	V_Ra_08	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS021
-22LS020	Kidney	V_Ra_08	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS020
+22LS021	Kidney	V_Ra_08	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS021
+22LS020	Kidney	V_Ra_08	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS020
 21BM011	Intestine	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM011
 22BM047	Kidney	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM047
 22BM001	Kidney	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM001
@@ -107,50 +107,50 @@ name	tissue	genotype	dataset	collection_location	collection_coordinates	collecti
 21BM002	Kidney	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM002
 21BM028	Kidney	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM028
 21BM001	Kidney	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM001
-22LS019	Kidney	V_Ra_09	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS019
+22LS019	Kidney	V_Ra_09	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS019
 21TD022	Kidney	V_Ra_09	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD022
-22LS033	Kidney	V_Ra_09	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS033
+22LS033	Kidney	V_Ra_09	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS033
 21TD004	Kidney	V_Ra_09	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD004
 21TD007	Kidney	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD007
-22LS002_Haplotype1	Kidney	V_Ra_10	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS002
+22LS002_Haplotype1	Kidney	V_Ra_10	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS002
 21TD006	Kidney	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD006
 21TD009	Kidney	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD009
 22BM078	Lung	V_Ra_10	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM078
-22LS025	Intestine	V_Ra_10	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS025
-22LS007	Kidney	V_Ra_10	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS007
-22LS026	Kidney	V_Ra_10	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS026
+22LS025	Intestine	V_Ra_10	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS025
+22LS007	Kidney	V_Ra_10	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS007
+22LS026	Kidney	V_Ra_10	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS026
 21TD010	Kidney	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD010
 21TD021	Kidney	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD021
 21TD003	Kidney	V_Ra_07	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD003
-22LS028	Kidney	V_Ra_07	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS028
-22LS049	Kidney	V_Ra_11	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS049
-22LS022	Intestine	V_Ra_11	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS022
-22LS050	Kidney	V_Ra_11	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS050
+22LS028	Kidney	V_Ra_07	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS028
+22LS049	Kidney	V_Ra_11	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS049
+22LS022	Intestine	V_Ra_11	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS022
+22LS050	Kidney	V_Ra_11	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS050
 21TD005	Kidney	V_Ra_11	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD005
 21TD008	Kidney	V_Ra_11	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD008
-22LS042	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS042
-22CB042	Kidney	V_Ra_13	this study	Cat Ba, Hai Phong, Vietnam	20.7536, 107.0125	2022-11-27	22CB042
-22CB045	Kidney	V_Ra_13	this study	Cat Ba, Hai Phong, Vietnam	20.7536, 107.0125	2022-11-27	22CB045
-22LS002_Haplotype2	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS002
-22LS004	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS004
+22LS042	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS042
+22CB042	Kidney	V_Ra_13	this study	Cat Ba, Hai Phong, Vietnam	20.7536,107.0125	2022-11-27	22CB042
+22CB045	Kidney	V_Ra_13	this study	Cat Ba, Hai Phong, Vietnam	20.7536,107.0125	2022-11-27	22CB045
+22LS002_Haplotype2	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS002
+22LS004	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS004
 21TD019	Kidney	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD019
 21TD015	Kidney	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD015
 21TD014	Kidney	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD014
 21TD016	Kidney	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD016
-22LS048	Intestine	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS048
-22LS027	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS027
-22LS016	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS016
+22LS048	Intestine	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS048
+22LS027	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS027
+22LS016	Kidney	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS016
 21TD020	Kidney	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD020
 21TD017	Kidney	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD017
 21TD001	Kidney	V_Ra_12	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD001
 21TD002	Kidney	V_Ra_12	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD002
 21TD011	Kidney	V_Ra_12	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD011
-22LS037	Kidney	V_Ra_15	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS037
-22LS005	Kidney	V_Ra_14	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS005
+22LS037	Kidney	V_Ra_15	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS037
+22LS005	Kidney	V_Ra_14	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS005
 21TD018	Kidney	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD018
 22BM057	Kidney	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM057
 22BM038_Haplotype1	Kidney	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM038
-22CB026	Kidney	V_Ra_03	this study	Cat Ba, Hai Phong, Vietnam	20.7536, 107.0125	2022-11-27	22CB026
+22CB026	Kidney	V_Ra_03	this study	Cat Ba, Hai Phong, Vietnam	20.7536,107.0125	2022-11-27	22CB026
 22BM024	Kidney	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM024
 22BM011	Lung	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM011
 22BM070	Kidney	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM070

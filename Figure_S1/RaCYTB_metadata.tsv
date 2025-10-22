@@ -25,7 +25,7 @@ name	tissue	ACE2_genotype	dataset	collection_location	collection_coordinates	col
 22BM045	Liver	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM045
 22BM067	Liver	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM067
 22BM069	Liver	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM069
-22CB028	Liver	V_Ra_04	this study	Cat Ba, Hai Phong, Vietnam	20.7536, 107.0125	2022-11-27	22CB028
+22CB028	Liver	V_Ra_04	this study	Cat Ba, Hai Phong, Vietnam	20.7536,107.0125	2022-11-27	22CB028
 22BM068	Liver	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM068
 22BM031	Liver	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM031
 22BM046	Liver	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM046
@@ -94,8 +94,8 @@ name	tissue	ACE2_genotype	dataset	collection_location	collection_coordinates	col
 21BM031	Liver	V_Ra_02	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM031
 22BM079	Liver	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM079
 21BM040	Liver	V_Ra_04	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM040
-22LS021	Liver	V_Ra_08	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS021
-22LS020	Liver	V_Ra_08	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS020
+22LS021	Liver	V_Ra_08	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS021
+22LS020	Liver	V_Ra_08	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS020
 21BM011	Liver	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM011
 22BM047	Liver	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM047
 22BM001	Liver	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM001
@@ -104,49 +104,49 @@ name	tissue	ACE2_genotype	dataset	collection_location	collection_coordinates	col
 21BM002	Liver	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM002
 21BM028	Liver	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM028
 21BM001	Liver	V_Ra_05	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2021-04-14	21BM001
-22LS019	Liver	V_Ra_09	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS019
+22LS019	Liver	V_Ra_09	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS019
 21TD022	Liver	V_Ra_09	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD022
-22LS033	Liver	V_Ra_09	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS033
+22LS033	Liver	V_Ra_09	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS033
 21TD004	Liver	V_Ra_09	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD004
 21TD007	Liver	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD007
-22LS002	Liver	V_Ra_10	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS002
+22LS002	Liver	V_Ra_10	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS002
 21TD006	Liver	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD006
 21TD009	Liver	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD009
 22BM078	Liver	V_Ra_10	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM078
-22LS025	Liver	V_Ra_10	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS025
-22LS007	Liver	V_Ra_10	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS007
-22LS026	Liver	V_Ra_10	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS026
+22LS025	Liver	V_Ra_10	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS025
+22LS007	Liver	V_Ra_10	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS007
+22LS026	Liver	V_Ra_10	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS026
 21TD010	Liver	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD010
 21TD021	Liver	V_Ra_10	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD021
 21TD003	Liver	V_Ra_07	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD003
-22LS028	Liver	V_Ra_07	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS028
-22LS049	Liver	V_Ra_11	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS049
-22LS022	Liver	V_Ra_11	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS022
-22LS050	Liver	V_Ra_11	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS050
+22LS028	Liver	V_Ra_07	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS028
+22LS049	Liver	V_Ra_11	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS049
+22LS022	Liver	V_Ra_11	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS022
+22LS050	Liver	V_Ra_11	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS050
 21TD005	Liver	V_Ra_11	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD005
 21TD008	Liver	V_Ra_11	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD008
-22LS042	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS042
-22CB042	Liver	V_Ra_13	this study	Cat Ba, Hai Phong, Vietnam	20.7536, 107.0125	2022-11-27	22CB042
-22CB045	Liver	V_Ra_13	this study	Cat Ba, Hai Phong, Vietnam	20.7536, 107.0125	2022-11-27	22CB045
-22LS004	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS004
+22LS042	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS042
+22CB042	Liver	V_Ra_13	this study	Cat Ba, Hai Phong, Vietnam	20.7536,107.0125	2022-11-27	22CB042
+22CB045	Liver	V_Ra_13	this study	Cat Ba, Hai Phong, Vietnam	20.7536,107.0125	2022-11-27	22CB045
+22LS004	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS004
 21TD019	Liver	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD019
 21TD015	Liver	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD015
 21TD014	Liver	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD014
 21TD016	Liver	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD016
-22LS048	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS048
-22LS027	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS027
-22LS016	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS016
+22LS048	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS048
+22LS027	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS027
+22LS016	Liver	V_Ra_13	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS016
 21TD020	Liver	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD020
 21TD017	Liver	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD017
 21TD001	Liver	V_Ra_12	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD001
 21TD002	Liver	V_Ra_12	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD002
 21TD011	Liver	V_Ra_12	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD011
-22LS037	Liver	V_Ra_15	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS037
-22LS005	Liver	V_Ra_14	this study	Lang Son, Vietnam	21.8197, 106.8364	2022-05-24	22LS005
+22LS037	Liver	V_Ra_15	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS037
+22LS005	Liver	V_Ra_14	this study	Lang Son, Vietnam	21.8197,106.8364	2022-05-24	22LS005
 21TD018	Liver	V_Ra_13	this study	Tam Dao, Vinh Phuc, Vietnam	21.4586,105.6519	2021-04-06	21TD018
 22BM057	Liver	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM057
 22BM038	Liver	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM038
-22CB026	Liver	V_Ra_03	this study	Cat Ba, Hai Phong, Vietnam	20.7536, 107.0125	2022-11-27	22CB026
+22CB026	Liver	V_Ra_03	this study	Cat Ba, Hai Phong, Vietnam	20.7536,107.0125	2022-11-27	22CB026
 22BM024	Liver	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM024
 22BM011	Liver	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM011
 22BM070	Liver	V_Ra_03	this study	Bach Ma, Thua Thien Hue, Vietnam	16.1967,107.8619	2022-05-07	22BM070
