@@ -147,7 +147,7 @@
 },
 "children": [
 {
-"name": "22BM010_Kidney",
+"name": "22BM010",
 "node_attrs": {
 "div": 0.0171075398,
 "bad_branch": {
@@ -183,7 +183,7 @@
 },
 "children": [
 {
-"name": "22BM017_Kidney",
+"name": "22BM017",
 "node_attrs": {
 "div": 0.015560093799999997,
 "bad_branch": {
@@ -217,7 +217,7 @@
 },
 "children": [
 {
-"name": "21BM005_Kidney",
+"name": "21BM005",
 "node_attrs": {
 "div": 0.015560093799999997,
 "bad_branch": {
@@ -251,7 +251,7 @@
 },
 "children": [
 {
-"name": "22BM075_Kidney",
+"name": "22BM075",
 "node_attrs": {
 "div": 0.015560093799999997,
 "bad_branch": {
@@ -285,7 +285,7 @@
 },
 "children": [
 {
-"name": "21BM022_Kidney",
+"name": "21BM022",
 "node_attrs": {
 "div": 0.015560093799999997,
 "bad_branch": {
@@ -319,7 +319,7 @@
 },
 "children": [
 {
-"name": "21BM025_Kidney",
+"name": "21BM025",
 "node_attrs": {
 "div": 0.015560093799999997,
 "bad_branch": {
@@ -336,7 +336,7 @@
 }
 },
 {
-"name": "22BM025_Kidney",
+"name": "22BM025",
 "node_attrs": {
 "div": 0.015560093799999997,
 "bad_branch": {
@@ -416,7 +416,7 @@
 },
 "children": [
 {
-"name": "22BM012_Lung",
+"name": "22BM012",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -450,7 +450,7 @@
 },
 "children": [
 {
-"name": "21BM003_Kidney",
+"name": "21BM003",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -484,7 +484,7 @@
 },
 "children": [
 {
-"name": "22BM080_Kidney",
+"name": "22BM080",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -518,7 +518,7 @@
 },
 "children": [
 {
-"name": "22BM062_Kidney",
+"name": "22BM062",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -552,7 +552,7 @@
 },
 "children": [
 {
-"name": "21TD006_Kidney",
+"name": "21TD006",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -586,7 +586,7 @@
 },
 "children": [
 {
-"name": "22BM061_Kidney",
+"name": "22BM061",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -620,7 +620,7 @@
 },
 "children": [
 {
-"name": "22BM054_Kidney",
+"name": "22BM054",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -654,7 +654,7 @@
 },
 "children": [
 {
-"name": "22BM035_Kidney",
+"name": "22BM035",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -688,7 +688,7 @@
 },
 "children": [
 {
-"name": "22BM007_Lung",
+"name": "22BM007",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -722,7 +722,7 @@
 },
 "children": [
 {
-"name": "21BM015_Kidney",
+"name": "21BM015",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -756,7 +756,7 @@
 },
 "children": [
 {
-"name": "22BM053_Kidney",
+"name": "22BM053",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -790,7 +790,7 @@
 },
 "children": [
 {
-"name": "22BM079_Kidney",
+"name": "22BM079",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -824,7 +824,7 @@
 },
 "children": [
 {
-"name": "22BM013_Lung",
+"name": "22BM013",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -858,7 +858,7 @@
 },
 "children": [
 {
-"name": "22BM042_Kidney",
+"name": "22BM042",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -892,7 +892,7 @@
 },
 "children": [
 {
-"name": "21BM037_Kidney",
+"name": "21BM037",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -926,7 +926,7 @@
 },
 "children": [
 {
-"name": "21BM004_Intestine",
+"name": "21BM004",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -960,7 +960,7 @@
 },
 "children": [
 {
-"name": "21BM012_Kidney",
+"name": "21BM012",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -994,7 +994,7 @@
 },
 "children": [
 {
-"name": "22BM033_Lung",
+"name": "22BM033",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1028,7 +1028,7 @@
 },
 "children": [
 {
-"name": "22BM015_Lung",
+"name": "22BM015",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1062,7 +1062,7 @@
 },
 "children": [
 {
-"name": "22BM026_Kidney",
+"name": "22BM026",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1096,7 +1096,7 @@
 },
 "children": [
 {
-"name": "22BM060_Kidney",
+"name": "22BM060",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1130,7 +1130,7 @@
 },
 "children": [
 {
-"name": "22BM008_Kidney",
+"name": "22BM008",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1164,7 +1164,7 @@
 },
 "children": [
 {
-"name": "22BM073_Kidney",
+"name": "22BM073",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1198,7 +1198,7 @@
 },
 "children": [
 {
-"name": "22BM014_Kidney",
+"name": "22BM014",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1232,7 +1232,7 @@
 },
 "children": [
 {
-"name": "22BM040_Kidney",
+"name": "22BM040",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1266,7 +1266,7 @@
 },
 "children": [
 {
-"name": "22BM077_Kidney",
+"name": "22BM077",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1300,7 +1300,7 @@
 },
 "children": [
 {
-"name": "22BM022_Lung",
+"name": "22BM022",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1334,7 +1334,7 @@
 },
 "children": [
 {
-"name": "21BM035_Kidney",
+"name": "21BM035",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1368,7 +1368,7 @@
 },
 "children": [
 {
-"name": "22BM002_Kidney",
+"name": "22BM002",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1402,7 +1402,7 @@
 },
 "children": [
 {
-"name": "22BM009_Kidney",
+"name": "22BM009",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1436,7 +1436,7 @@
 },
 "children": [
 {
-"name": "21BM023_Kidney",
+"name": "21BM023",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1470,7 +1470,7 @@
 },
 "children": [
 {
-"name": "22BM056_Kidney",
+"name": "22BM056",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1504,7 +1504,7 @@
 },
 "children": [
 {
-"name": "22BM048_Kidney",
+"name": "22BM048",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1538,7 +1538,7 @@
 },
 "children": [
 {
-"name": "21BM013_Kidney",
+"name": "21BM013",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1572,7 +1572,7 @@
 },
 "children": [
 {
-"name": "21BM021_Kidney",
+"name": "21BM021",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1606,7 +1606,7 @@
 },
 "children": [
 {
-"name": "22BM018_Lung",
+"name": "22BM018",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1640,7 +1640,7 @@
 },
 "children": [
 {
-"name": "21BM026_Kidney",
+"name": "21BM026",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1691,7 +1691,7 @@
 }
 },
 {
-"name": "22BM016_Lung",
+"name": "22BM016",
 "node_attrs": {
 "div": 0.014033173999999999,
 "bad_branch": {
@@ -1824,7 +1824,7 @@
 },
 "children": [
 {
-"name": "21TD017_Kidney",
+"name": "21TD017",
 "node_attrs": {
 "div": 0.0139989895,
 "bad_branch": {
@@ -1858,7 +1858,7 @@
 },
 "children": [
 {
-"name": "22LS042_Kidney",
+"name": "22LS042",
 "node_attrs": {
 "div": 0.0139989895,
 "bad_branch": {
@@ -1892,7 +1892,7 @@
 },
 "children": [
 {
-"name": "21TD018_Kidney",
+"name": "21TD018",
 "node_attrs": {
 "div": 0.0139989895,
 "bad_branch": {
@@ -1926,7 +1926,7 @@
 },
 "children": [
 {
-"name": "22CB045_Kidney",
+"name": "22CB045",
 "node_attrs": {
 "div": 0.0139989895,
 "bad_branch": {
@@ -1960,7 +1960,7 @@
 },
 "children": [
 {
-"name": "21TD011_Kidney",
+"name": "21TD011",
 "node_attrs": {
 "div": 0.0139989895,
 "bad_branch": {
@@ -1977,7 +1977,7 @@
 }
 },
 {
-"name": "22CB042_Kidney",
+"name": "22CB042",
 "node_attrs": {
 "div": 0.0139989895,
 "bad_branch": {
@@ -2797,7 +2797,7 @@
 },
 "children": [
 {
-"name": "22LS005_Kidney",
+"name": "22LS005",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -2831,7 +2831,7 @@
 },
 "children": [
 {
-"name": "22LS022_Intestine",
+"name": "22LS022",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -2865,7 +2865,7 @@
 },
 "children": [
 {
-"name": "22LS020_Kidney",
+"name": "22LS020",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -2899,7 +2899,7 @@
 },
 "children": [
 {
-"name": "22LS050_Kidney",
+"name": "22LS050",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -2933,7 +2933,7 @@
 },
 "children": [
 {
-"name": "22LS021_Kidney",
+"name": "22LS021",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -2967,7 +2967,7 @@
 },
 "children": [
 {
-"name": "22LS049_Kidney",
+"name": "22LS049",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -3001,7 +3001,7 @@
 },
 "children": [
 {
-"name": "21TD008_Kidney",
+"name": "21TD008",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -3035,7 +3035,7 @@
 },
 "children": [
 {
-"name": "21TD003_Kidney",
+"name": "21TD003",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -3069,7 +3069,7 @@
 },
 "children": [
 {
-"name": "22LS028_Kidney",
+"name": "22LS028",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -3103,7 +3103,7 @@
 },
 "children": [
 {
-"name": "22LS037_Kidney",
+"name": "22LS037",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -3120,7 +3120,7 @@
 }
 },
 {
-"name": "21TD005_Kidney",
+"name": "21TD005",
 "node_attrs": {
 "div": 0.013944592699999998,
 "bad_branch": {
@@ -3195,7 +3195,7 @@
 },
 "children": [
 {
-"name": "22BM076_Kidney",
+"name": "22BM076",
 "node_attrs": {
 "div": 0.0170529226,
 "bad_branch": {
@@ -3231,7 +3231,7 @@
 },
 "children": [
 {
-"name": "21BM033_Kidney",
+"name": "21BM033",
 "node_attrs": {
 "div": 0.015591275999999998,
 "bad_branch": {
@@ -3265,7 +3265,7 @@
 },
 "children": [
 {
-"name": "22BM011_Lung",
+"name": "22BM011",
 "node_attrs": {
 "div": 0.015591275999999998,
 "bad_branch": {
@@ -3299,7 +3299,7 @@
 },
 "children": [
 {
-"name": "21BM027_Kidney",
+"name": "21BM027",
 "node_attrs": {
 "div": 0.015591275999999998,
 "bad_branch": {
@@ -3316,7 +3316,7 @@
 }
 },
 {
-"name": "22BM058_Kidney",
+"name": "22BM058",
 "node_attrs": {
 "div": 0.015591275999999998,
 "bad_branch": {
@@ -3358,7 +3358,7 @@
 },
 "children": [
 {
-"name": "22BM020_Kidney",
+"name": "22BM020",
 "node_attrs": {
 "div": 0.0140372481,
 "bad_branch": {
@@ -3392,7 +3392,7 @@
 },
 "children": [
 {
-"name": "22BM024_Kidney",
+"name": "22BM024",
 "node_attrs": {
 "div": 0.0155706161,
 "bad_branch": {
@@ -3428,7 +3428,7 @@
 },
 "children": [
 {
-"name": "22BM074_Kidney",
+"name": "22BM074",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3462,7 +3462,7 @@
 },
 "children": [
 {
-"name": "22CB026_Kidney",
+"name": "22CB026",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3496,7 +3496,7 @@
 },
 "children": [
 {
-"name": "22BM057_Kidney",
+"name": "22BM057",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3530,7 +3530,7 @@
 },
 "children": [
 {
-"name": "22BM043_Kidney",
+"name": "22BM043",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3564,7 +3564,7 @@
 },
 "children": [
 {
-"name": "22BM039_Kidney",
+"name": "22BM039",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3598,7 +3598,7 @@
 },
 "children": [
 {
-"name": "22BM070_Kidney",
+"name": "22BM070",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3632,7 +3632,7 @@
 },
 "children": [
 {
-"name": "22BM038_Kidney_Haplotype1",
+"name": "22BM038Haplotype1",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3666,7 +3666,7 @@
 },
 "children": [
 {
-"name": "21BM030_Kidney",
+"name": "21BM030",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3700,7 +3700,7 @@
 },
 "children": [
 {
-"name": "21BM024_Kidney",
+"name": "21BM024",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3717,7 +3717,7 @@
 }
 },
 {
-"name": "21BM031_Kidney",
+"name": "21BM031",
 "node_attrs": {
 "div": 0.014038235,
 "bad_branch": {
@@ -3779,7 +3779,7 @@
 },
 "children": [
 {
-"name": "21TD014_Kidney",
+"name": "21TD014",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -3813,7 +3813,7 @@
 },
 "children": [
 {
-"name": "22LS019_Kidney",
+"name": "22LS019",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -3847,7 +3847,7 @@
 },
 "children": [
 {
-"name": "22BM023_Kidney",
+"name": "22BM023",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -3881,7 +3881,7 @@
 },
 "children": [
 {
-"name": "22BM004_Kidney",
+"name": "22BM004",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -3915,7 +3915,7 @@
 },
 "children": [
 {
-"name": "22BM072_Kidney",
+"name": "22BM072",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -3949,7 +3949,7 @@
 },
 "children": [
 {
-"name": "21TD010_Kidney",
+"name": "21TD010",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -3983,7 +3983,7 @@
 },
 "children": [
 {
-"name": "22BM006_Kidney",
+"name": "22BM006",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4017,7 +4017,7 @@
 },
 "children": [
 {
-"name": "21BM001_Kidney",
+"name": "21BM001",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4051,7 +4051,7 @@
 },
 "children": [
 {
-"name": "22BM041_Kidney",
+"name": "22BM041",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4085,7 +4085,7 @@
 },
 "children": [
 {
-"name": "22BM032_Kidney",
+"name": "22BM032",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4119,7 +4119,7 @@
 },
 "children": [
 {
-"name": "22LS002_Kidney_Haplotype1",
+"name": "22LS002Haplotype1",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4153,7 +4153,7 @@
 },
 "children": [
 {
-"name": "22LS026_Kidney",
+"name": "22LS026",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4221,7 +4221,7 @@
 },
 "children": [
 {
-"name": "22BM063_Kidney_Haplotype2",
+"name": "22BM063Haplotype2",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4255,7 +4255,7 @@
 },
 "children": [
 {
-"name": "21BM019_Kidney",
+"name": "21BM019",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4289,7 +4289,7 @@
 },
 "children": [
 {
-"name": "22BM063_Kidney_Haplotype1",
+"name": "22BM063Haplotype1",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4323,7 +4323,7 @@
 },
 "children": [
 {
-"name": "22LS033_Kidney",
+"name": "22LS033",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4357,7 +4357,7 @@
 },
 "children": [
 {
-"name": "21BM040_Kidney",
+"name": "21BM040",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4391,7 +4391,7 @@
 },
 "children": [
 {
-"name": "21TD001_Kidney",
+"name": "21TD001",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4425,7 +4425,7 @@
 },
 "children": [
 {
-"name": "21BM010_Kidney",
+"name": "21BM010",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4459,7 +4459,7 @@
 },
 "children": [
 {
-"name": "22LS016_Kidney",
+"name": "22LS016",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4493,7 +4493,7 @@
 },
 "children": [
 {
-"name": "21BM002_Kidney",
+"name": "21BM002",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4527,7 +4527,7 @@
 },
 "children": [
 {
-"name": "22BM044_Kidney",
+"name": "22BM044",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4561,7 +4561,7 @@
 },
 "children": [
 {
-"name": "22BM078_Lung",
+"name": "22BM078",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4595,7 +4595,7 @@
 },
 "children": [
 {
-"name": "22BM036_Kidney",
+"name": "22BM036",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4629,7 +4629,7 @@
 },
 "children": [
 {
-"name": "22BM037_Kidney",
+"name": "22BM037",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4663,7 +4663,7 @@
 },
 "children": [
 {
-"name": "22BM069_Kidney",
+"name": "22BM069",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4697,7 +4697,7 @@
 },
 "children": [
 {
-"name": "21TD022_Kidney",
+"name": "21TD022",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4731,7 +4731,7 @@
 },
 "children": [
 {
-"name": "22BM028_Kidney_Haplotype1",
+"name": "22BM028Haplotype1",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4765,7 +4765,7 @@
 },
 "children": [
 {
-"name": "21BM011_Intestine",
+"name": "21BM011",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4799,7 +4799,7 @@
 },
 "children": [
 {
-"name": "21BM007_Kidney",
+"name": "21BM007",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4833,7 +4833,7 @@
 },
 "children": [
 {
-"name": "22BM046_Kidney",
+"name": "22BM046",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4867,7 +4867,7 @@
 },
 "children": [
 {
-"name": "21BM014_Kidney",
+"name": "21BM014",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4901,7 +4901,7 @@
 },
 "children": [
 {
-"name": "22BM045_Intestine",
+"name": "22BM045",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4935,7 +4935,7 @@
 },
 "children": [
 {
-"name": "22BM038_Kidney_Haplotype2",
+"name": "22BM038Haplotype2",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -4969,7 +4969,7 @@
 },
 "children": [
 {
-"name": "21BM039_Kidney",
+"name": "21BM039",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5003,7 +5003,7 @@
 },
 "children": [
 {
-"name": "22LS025_Intestine",
+"name": "22LS025",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5037,7 +5037,7 @@
 },
 "children": [
 {
-"name": "22BM001_Kidney",
+"name": "22BM001",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5071,7 +5071,7 @@
 },
 "children": [
 {
-"name": "21TD009_Kidney",
+"name": "21TD009",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5105,7 +5105,7 @@
 },
 "children": [
 {
-"name": "21BM017_Intestine",
+"name": "21BM017",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5139,7 +5139,7 @@
 },
 "children": [
 {
-"name": "22BM051_Kidney",
+"name": "22BM051",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5173,7 +5173,7 @@
 },
 "children": [
 {
-"name": "21BM034_Kidney",
+"name": "21BM034",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5207,7 +5207,7 @@
 },
 "children": [
 {
-"name": "21TD021_Kidney",
+"name": "21TD021",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5241,7 +5241,7 @@
 },
 "children": [
 {
-"name": "22BM052_Kidney",
+"name": "22BM052",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5275,7 +5275,7 @@
 },
 "children": [
 {
-"name": "22BM065_Kidney",
+"name": "22BM065",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5309,7 +5309,7 @@
 },
 "children": [
 {
-"name": "22BM064_Kidney",
+"name": "22BM064",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5343,7 +5343,7 @@
 },
 "children": [
 {
-"name": "21BM016_Kidney",
+"name": "21BM016",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5377,7 +5377,7 @@
 },
 "children": [
 {
-"name": "22BM021_Kidney",
+"name": "22BM021",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5411,7 +5411,7 @@
 },
 "children": [
 {
-"name": "21TD015_Kidney",
+"name": "21TD015",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5445,7 +5445,7 @@
 },
 "children": [
 {
-"name": "22BM003_Kidney",
+"name": "22BM003",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5479,7 +5479,7 @@
 },
 "children": [
 {
-"name": "21TD020_Kidney",
+"name": "21TD020",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5513,7 +5513,7 @@
 },
 "children": [
 {
-"name": "22LS048_Intestine",
+"name": "22LS048",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5547,7 +5547,7 @@
 },
 "children": [
 {
-"name": "21TD019_Kidney",
+"name": "21TD019",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5581,7 +5581,7 @@
 },
 "children": [
 {
-"name": "22BM005_Kidney",
+"name": "22BM005",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5615,7 +5615,7 @@
 },
 "children": [
 {
-"name": "22BM066_Kindey",
+"name": "22BM066",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5649,7 +5649,7 @@
 },
 "children": [
 {
-"name": "21BM032_Kidney",
+"name": "21BM032",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5683,7 +5683,7 @@
 },
 "children": [
 {
-"name": "21TD002_Kidney",
+"name": "21TD002",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5717,7 +5717,7 @@
 },
 "children": [
 {
-"name": "22BM028_Kidney_Haplotype2",
+"name": "22BM028Haplotype2",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5751,7 +5751,7 @@
 },
 "children": [
 {
-"name": "22BM071_Kidney",
+"name": "22BM071",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5785,7 +5785,7 @@
 },
 "children": [
 {
-"name": "22CB028_Kidney",
+"name": "22CB028",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5819,7 +5819,7 @@
 },
 "children": [
 {
-"name": "22BM034_Kidney",
+"name": "22BM034",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5853,7 +5853,7 @@
 },
 "children": [
 {
-"name": "22LS007_Kidney",
+"name": "22LS007",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5887,7 +5887,7 @@
 },
 "children": [
 {
-"name": "22BM019_Kidney",
+"name": "22BM019",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5921,7 +5921,7 @@
 },
 "children": [
 {
-"name": "22BM050_Kidney",
+"name": "22BM050",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5955,7 +5955,7 @@
 },
 "children": [
 {
-"name": "21TD016_Kidney",
+"name": "21TD016",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -5989,7 +5989,7 @@
 },
 "children": [
 {
-"name": "21BM029_Kidney",
+"name": "21BM029",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6023,7 +6023,7 @@
 },
 "children": [
 {
-"name": "21BM008_Kidney",
+"name": "21BM008",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6057,7 +6057,7 @@
 },
 "children": [
 {
-"name": "22LS027_Kidney",
+"name": "22LS027",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6091,7 +6091,7 @@
 },
 "children": [
 {
-"name": "22BM047_Kidney",
+"name": "22BM047",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6125,7 +6125,7 @@
 },
 "children": [
 {
-"name": "22BM068_Kidney",
+"name": "22BM068",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6159,7 +6159,7 @@
 },
 "children": [
 {
-"name": "21BM006_Kidney",
+"name": "21BM006",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6193,7 +6193,7 @@
 },
 "children": [
 {
-"name": "21BM018_Kidney",
+"name": "21BM018",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6227,7 +6227,7 @@
 },
 "children": [
 {
-"name": "22BM031_Kidney",
+"name": "22BM031",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6261,7 +6261,7 @@
 },
 "children": [
 {
-"name": "22LS002_Kidney_Haplotype2",
+"name": "22LS002Haplotype2",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6329,7 +6329,7 @@
 },
 "children": [
 {
-"name": "21BM036_Kidney",
+"name": "21BM036",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6363,7 +6363,7 @@
 },
 "children": [
 {
-"name": "21TD004_Kidney",
+"name": "21TD004",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6397,7 +6397,7 @@
 },
 "children": [
 {
-"name": "21BM028_Kidney",
+"name": "21BM028",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6431,7 +6431,7 @@
 },
 "children": [
 {
-"name": "22BM067_Kidney",
+"name": "22BM067",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6465,7 +6465,7 @@
 },
 "children": [
 {
-"name": "22LS004_Kidney",
+"name": "22LS004",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
@@ -6482,7 +6482,7 @@
 }
 },
 {
-"name": "21TD007_Kidney",
+"name": "21TD007",
 "node_attrs": {
 "div": 0.0124199004,
 "bad_branch": {
