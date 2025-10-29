@@ -16,7 +16,7 @@ Online supplementary for *Genetic diversity in horseshoe bat ACE2 and sarbecovir
   The rooted tree annotated with branch-specific nucleotide substitutions by TreeTime is available [here](Figure_1/treetime_mut_annotations/RaACE2_cds_1-1686_Rsh-out_annotated_tree.nexus). 
   
 * **Sequence metadata**
-	The metadata for all *R. affinis* ACE2 sequences are available [here](Figure_1/RaACE2_metadata.tsv) and 
+	The metadata for all *R. affinis* ACE2 sequences are available [here](Figure_1/RaACE2_metadata.tsv). 
   
   
 
